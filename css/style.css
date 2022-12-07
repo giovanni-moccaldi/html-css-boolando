@@ -53,9 +53,21 @@
     
     
     font-size: larges;
-    background-color: white;
+    background-color: white;    
     
+}
+#disco{
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+    background-color: red;
+    color: white;
+}
+#sost{
+    position: absolute;
+    bottom: 10px;
+    left: 45px;
+    background-color: green;
+    color: white;
 
-    
-    
 }
