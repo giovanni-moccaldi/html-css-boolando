@@ -21,20 +21,25 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    
 }
 .row{
     display: flex;
     gap: 10px;
     padding-top: 10px;
-    position: absolute;
+    flex-direction:row;
+    
+    
+    
     
     
     
 
 }
 .col{
-    width: 200px;
+    max-width: 33%;
     height: 200px;;
+    display: flex;
     
     
 }
