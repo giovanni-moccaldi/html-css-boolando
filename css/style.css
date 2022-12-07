@@ -1,6 +1,6 @@
 .start{
     height: 50px;
-    width: 1400px;;
+   
     background-color: orange;
     display: flex;
     justify-content:space-between ;
@@ -11,21 +11,32 @@
 
 
 }
+.link{
+    display: flex;
+}
 .logo{
     max-width: 140px;
 }
 .container{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
 }
 .row{
     display: flex;
+    gap: 10px;
+    padding-top: 10px;
+    position: absolute;
     
-
     
 
 }
 .col{
+    flex-direction: column;
     
+}
+/*.heart{
+    position: relative;
+    bottom:315px;
+    left:195px;
 }
