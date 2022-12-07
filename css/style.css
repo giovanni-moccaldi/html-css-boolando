@@ -1,0 +1,27 @@
+.start{
+    height: 50px;
+    width: 1400px;;
+    background-color: orange;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+
+
+}
+.logo{
+    max-width: 140px;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.link{
+    flex-direction: column;
+    
+}
+
+    
