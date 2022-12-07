@@ -29,14 +29,22 @@
     position: absolute;
     
     
+    
 
 }
 .col{
-    flex-direction: column;
+    width: 200px;
+    height: 200px;;
+    
     
 }
-/*.heart{
+heart{
     position: relative;
     bottom:315px;
     left:195px;
+}
+.low{
+    display: flex;
+    flex-direction: column;
+
 }
