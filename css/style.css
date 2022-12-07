@@ -46,6 +46,13 @@
     
     
 }
+
+ .col :hover .heart{
+    
+ }
+
+
+
 .heart{
     position: absolute;
     left:290px;
