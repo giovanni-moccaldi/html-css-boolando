@@ -8,6 +8,7 @@
     padding-left: 5px;
     padding-right: 5px;
     
+    
 
 
 }
@@ -16,6 +17,8 @@
     gap: 10px;
 
 }
+
+
 .logo{
     max-width: 140px;
 }
@@ -125,4 +128,6 @@
 }
 #info{
     font-size: 12px;
+    margin-left: 15px;
+    line-height: 15px;
 }
