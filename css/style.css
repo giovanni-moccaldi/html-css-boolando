@@ -114,3 +114,15 @@
     color: white;
 
 }
+.end{
+    height: 80px;
+    background-color: rgb(37, 35, 35);
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+#info{
+    font-size: 12px;
+}
