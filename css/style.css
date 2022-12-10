@@ -5,6 +5,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
     
     
     
@@ -127,7 +129,7 @@
     height: 80px;
     background-color: rgb(37, 35, 35);
     display: flex;
-    margin-top: 100px;
+    margin-top: 400px;
     justify-content: space-between;
     align-items: center;
     color: white;
